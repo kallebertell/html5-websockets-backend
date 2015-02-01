@@ -1,0 +1,24 @@
+{
+  "name": "html5-websockets-backend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "websocket": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tjankowski/html5-websockets-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjankowski/html5-websockets-backend/issues"
+  },
+  "homepage": "https://github.com/tjankowski/html5-websockets-backend"
+}
