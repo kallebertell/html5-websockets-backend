@@ -66,7 +66,7 @@ wsServer.on('request', function(request) {
     }));
 
     // Send hello message
-    sendMsg(connection.connectionId, 'Has joined chat');
+    //sendMsg(connection.connectionId, 'Has joined chat');
 
     connection.on('message', function(message) {
         if (message.type === 'utf8') {
